@@ -25,3 +25,23 @@
 - **Grettis Saga**
   - single protagonist
   - biography
+
+## Dating the Sagas
+
+### Key factors in Dating the Sagas
+
+- Style and vocabulary
+- References to historical events
+- Quatations from other sagas
+
+### Age Categories
+
+- Early sagas (1200-1250)
+- Classical sagas (1250-1300)
+- Post-classical sagas (after 1300)
+
+### Sagas Dates Examples
+
+- Eyrbyggja Saga - 13th to 14th Century
+- Njáls Saga - 1270 to 1290
+- Grettis Saga - <= 14th Century
